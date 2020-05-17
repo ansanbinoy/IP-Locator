@@ -15,7 +15,7 @@ def get_ip_info(ip):
 		i.strip("\n")
 		sleep(0.5)
 		print ("[+] "+i)
-#os.system("clear")
+os.system("clear")
 print ("\033[1;31m")
 logo()
 print ("\033[1;36m\t=================================================")
